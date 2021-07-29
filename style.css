@@ -1,0 +1,40 @@
+.container
+{
+    text-align: center;
+}
+
+
+.menu {
+    float:left;
+    list-style:none;
+    color:darkturquoise;
+    position:fixed;
+    background-color:darkorange;
+    width:100%;
+    margin-top:0px;
+    top:0px;
+    z-index:10;
+}
+
+.links{
+    display:inline;
+    font-size:20px;
+    padding-left:35px;
+    padding-right:35px;
+}
+
+#myCarousel{
+    background-color:darkgrey;    
+}
+
+#myCarousel img{
+    height:300px;
+    margin-top:35px;
+}
+
+.carousel-inner h3{
+    margin-bottom:15px;
+    margin-top:15;
+    color:white;
+    font-size:20px;
+}
